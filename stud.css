@@ -1,0 +1,39 @@
+html{
+  background-color: #e6e6e6;
+  font-family: 'Montserrat', sans-serif;
+}
+
+html:hover{
+  cursor:pointer;
+}
+
+p{
+  padding-top: 60px;
+  color: #808080;
+  font-size: 18px;
+  margin: auto;
+  text-align: center;
+}
+
+h1{
+  font-size: 35px;
+  padding-top: 30px;
+  padding-left: 50px;
+  margin: auto;
+}
+
+h2{
+  font-size: 65px;
+  padding-top: 170px;
+  margin: auto;
+  text-align: center;
+}
+
+.understand {
+  color:#47cc55;
+}
+
+.dont-understand{
+  display:none;
+  color:#cc0000;
+}

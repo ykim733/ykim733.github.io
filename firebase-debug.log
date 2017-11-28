@@ -1,0 +1,682 @@
+[debug] [2017-11-28T07:16:22.453Z] ----------------------------------------------------------------------
+[debug] [2017-11-28T07:16:22.456Z] Command:       /usr/local/bin/node /usr/local/bin/firebase serve
+[debug] [2017-11-28T07:16:22.456Z] CLI Version:   3.15.3
+[debug] [2017-11-28T07:16:22.456Z] Platform:      darwin
+[debug] [2017-11-28T07:16:22.456Z] Node Version:  v6.10.1
+[debug] [2017-11-28T07:16:22.457Z] Time:          Tue Nov 28 2017 01:16:22 GMT-0600 (CST)
+[debug] [2017-11-28T07:16:22.457Z] ----------------------------------------------------------------------
+[debug] 
+[debug] [2017-11-28T07:16:22.470Z] > command requires scopes: ["email","openid","https://www.googleapis.com/auth/cloudplatformprojects.readonly","https://www.googleapis.com/auth/firebase","https://www.googleapis.com/auth/cloud-platform"]
+[debug] [2017-11-28T07:16:22.470Z] > authorizing via signed-in user
+[debug] [2017-11-28T07:16:22.473Z] >>> HTTP REQUEST GET https://admin.firebase.com/v1/projects/counter-e1df6  
+ Tue Nov 28 2017 01:16:22 GMT-0600 (CST)
+[debug] [2017-11-28T07:16:22.704Z] <<< HTTP RESPONSE 200
+[debug] [2017-11-28T07:16:22.706Z] >>> HTTP REQUEST GET https://admin.firebase.com/v1/database/counter-e1df6/tokens  
+ Tue Nov 28 2017 01:16:22 GMT-0600 (CST)
+[debug] [2017-11-28T07:16:22.952Z] <<< HTTP RESPONSE 200
+[info] 
+[info] === Serving from '/Users/youngeon/Downloads/338project'...
+[info] 
+[debug] [2017-11-28T07:16:22.956Z] >>> HTTP REQUEST GET https://cloudresourcemanager.googleapis.com/v1/projects/counter-e1df6  
+ Tue Nov 28 2017 01:16:22 GMT-0600 (CST)
+[debug] [2017-11-28T07:16:23.239Z] <<< HTTP RESPONSE 200
+[debug] [2017-11-28T07:16:23.239Z] >>> HTTP REQUEST GET https://mobilesdk-pa.googleapis.com/v1/projects/253789270228/clients/_:getWebAppConfig  
+ Tue Nov 28 2017 01:16:23 GMT-0600 (CST)
+[debug] [2017-11-28T07:16:23.407Z] <<< HTTP RESPONSE 200
+[info] i  hosting: Serving hosting files from: ./
+[info] ✔  hosting: Local server: http://localhost:5000
+
+[debug] [2017-11-28T07:17:47.445Z] ----------------------------------------------------------------------
+[debug] [2017-11-28T07:17:47.448Z] Command:       /usr/local/bin/node /usr/local/bin/firebase serve
+[debug] [2017-11-28T07:17:47.449Z] CLI Version:   3.15.3
+[debug] [2017-11-28T07:17:47.449Z] Platform:      darwin
+[debug] [2017-11-28T07:17:47.449Z] Node Version:  v6.10.1
+[debug] [2017-11-28T07:17:47.450Z] Time:          Tue Nov 28 2017 01:17:47 GMT-0600 (CST)
+[debug] [2017-11-28T07:17:47.450Z] ----------------------------------------------------------------------
+[debug] 
+[debug] [2017-11-28T07:17:47.461Z] > command requires scopes: ["email","openid","https://www.googleapis.com/auth/cloudplatformprojects.readonly","https://www.googleapis.com/auth/firebase","https://www.googleapis.com/auth/cloud-platform"]
+[debug] [2017-11-28T07:17:47.462Z] > authorizing via signed-in user
+[debug] [2017-11-28T07:17:47.465Z] >>> HTTP REQUEST GET https://admin.firebase.com/v1/projects/counter-e1df6  
+ Tue Nov 28 2017 01:17:47 GMT-0600 (CST)
+[debug] [2017-11-28T07:17:47.755Z] <<< HTTP RESPONSE 200
+[debug] [2017-11-28T07:17:47.756Z] >>> HTTP REQUEST GET https://admin.firebase.com/v1/database/counter-e1df6/tokens  
+ Tue Nov 28 2017 01:17:47 GMT-0600 (CST)
+[debug] [2017-11-28T07:17:47.978Z] <<< HTTP RESPONSE 200
+[info] 
+[info] === Serving from '/Users/youngeon/Downloads/338project'...
+[info] 
+[debug] [2017-11-28T07:17:47.982Z] >>> HTTP REQUEST GET https://cloudresourcemanager.googleapis.com/v1/projects/counter-e1df6  
+ Tue Nov 28 2017 01:17:47 GMT-0600 (CST)
+[debug] [2017-11-28T07:17:48.158Z] <<< HTTP RESPONSE 200
+[debug] [2017-11-28T07:17:48.158Z] >>> HTTP REQUEST GET https://mobilesdk-pa.googleapis.com/v1/projects/253789270228/clients/_:getWebAppConfig  
+ Tue Nov 28 2017 01:17:48 GMT-0600 (CST)
+[debug] [2017-11-28T07:17:48.334Z] <<< HTTP RESPONSE 200
+[warn] ⚠  hosting: Port 5000 is not available. Trying another port...
+[debug] [2017-11-28T07:17:48.354Z] >>> HTTP REQUEST GET https://cloudresourcemanager.googleapis.com/v1/projects/counter-e1df6  
+ Tue Nov 28 2017 01:17:48 GMT-0600 (CST)
+[debug] [2017-11-28T07:17:48.508Z] <<< HTTP RESPONSE 200
+[debug] [2017-11-28T07:17:48.509Z] >>> HTTP REQUEST GET https://mobilesdk-pa.googleapis.com/v1/projects/253789270228/clients/_:getWebAppConfig  
+ Tue Nov 28 2017 01:17:48 GMT-0600 (CST)
+[debug] [2017-11-28T07:17:48.726Z] <<< HTTP RESPONSE 200
+[info] i  hosting: Serving hosting files from: ./
+[info] ✔  hosting: Local server: http://localhost:5004
+
+[debug] [2017-11-28T07:23:06.311Z] ----------------------------------------------------------------------
+[debug] [2017-11-28T07:23:06.314Z] Command:       /usr/local/bin/node /usr/local/bin/firebase serve
+[debug] [2017-11-28T07:23:06.315Z] CLI Version:   3.15.3
+[debug] [2017-11-28T07:23:06.315Z] Platform:      darwin
+[debug] [2017-11-28T07:23:06.315Z] Node Version:  v6.10.1
+[debug] [2017-11-28T07:23:06.316Z] Time:          Tue Nov 28 2017 01:23:06 GMT-0600 (CST)
+[debug] [2017-11-28T07:23:06.316Z] ----------------------------------------------------------------------
+[debug] 
+[debug] [2017-11-28T07:23:06.331Z] > command requires scopes: ["email","openid","https://www.googleapis.com/auth/cloudplatformprojects.readonly","https://www.googleapis.com/auth/firebase","https://www.googleapis.com/auth/cloud-platform"]
+[debug] [2017-11-28T07:23:06.332Z] > authorizing via signed-in user
+[debug] [2017-11-28T07:23:06.335Z] >>> HTTP REQUEST GET https://admin.firebase.com/v1/projects/counter-e1df6  
+ Tue Nov 28 2017 01:23:06 GMT-0600 (CST)
+[debug] [2017-11-28T07:23:06.777Z] <<< HTTP RESPONSE 200
+[debug] [2017-11-28T07:23:06.780Z] >>> HTTP REQUEST GET https://admin.firebase.com/v1/database/counter-e1df6/tokens  
+ Tue Nov 28 2017 01:23:06 GMT-0600 (CST)
+[debug] [2017-11-28T07:23:07.135Z] <<< HTTP RESPONSE 200
+[info] 
+[info] === Serving from '/Users/youngeon/Downloads/338project'...
+[info] 
+[debug] [2017-11-28T07:23:07.139Z] >>> HTTP REQUEST GET https://cloudresourcemanager.googleapis.com/v1/projects/counter-e1df6  
+ Tue Nov 28 2017 01:23:07 GMT-0600 (CST)
+[debug] [2017-11-28T07:23:07.314Z] <<< HTTP RESPONSE 200
+[debug] [2017-11-28T07:23:07.315Z] >>> HTTP REQUEST GET https://mobilesdk-pa.googleapis.com/v1/projects/253789270228/clients/_:getWebAppConfig  
+ Tue Nov 28 2017 01:23:07 GMT-0600 (CST)
+[debug] [2017-11-28T07:23:07.556Z] <<< HTTP RESPONSE 200
+[warn] ⚠  hosting: Port 5000 is not available. Trying another port...
+[debug] [2017-11-28T07:23:07.580Z] >>> HTTP REQUEST GET https://cloudresourcemanager.googleapis.com/v1/projects/counter-e1df6  
+ Tue Nov 28 2017 01:23:07 GMT-0600 (CST)
+[debug] [2017-11-28T07:23:07.674Z] <<< HTTP RESPONSE 200
+[debug] [2017-11-28T07:23:07.674Z] >>> HTTP REQUEST GET https://mobilesdk-pa.googleapis.com/v1/projects/253789270228/clients/_:getWebAppConfig  
+ Tue Nov 28 2017 01:23:07 GMT-0600 (CST)
+[debug] [2017-11-28T07:23:07.857Z] <<< HTTP RESPONSE 200
+[warn] ⚠  hosting: Port 5004 is not available. Trying another port...
+[debug] [2017-11-28T07:23:07.863Z] >>> HTTP REQUEST GET https://cloudresourcemanager.googleapis.com/v1/projects/counter-e1df6  
+ Tue Nov 28 2017 01:23:07 GMT-0600 (CST)
+[debug] [2017-11-28T07:23:07.998Z] <<< HTTP RESPONSE 200
+[debug] [2017-11-28T07:23:07.999Z] >>> HTTP REQUEST GET https://mobilesdk-pa.googleapis.com/v1/projects/253789270228/clients/_:getWebAppConfig  
+ Tue Nov 28 2017 01:23:07 GMT-0600 (CST)
+[debug] [2017-11-28T07:23:08.172Z] <<< HTTP RESPONSE 200
+[info] i  hosting: Serving hosting files from: ./
+[info] ✔  hosting: Local server: http://localhost:5008
+
+[debug] [2017-11-28T07:26:00.740Z] ----------------------------------------------------------------------
+[debug] [2017-11-28T07:26:00.743Z] Command:       /usr/local/bin/node /usr/local/bin/firebase serve
+[debug] [2017-11-28T07:26:00.744Z] CLI Version:   3.15.3
+[debug] [2017-11-28T07:26:00.745Z] Platform:      darwin
+[debug] [2017-11-28T07:26:00.745Z] Node Version:  v6.10.1
+[debug] [2017-11-28T07:26:00.746Z] Time:          Tue Nov 28 2017 01:26:00 GMT-0600 (CST)
+[debug] [2017-11-28T07:26:00.746Z] ----------------------------------------------------------------------
+[debug] 
+[debug] [2017-11-28T07:26:00.765Z] > command requires scopes: ["email","openid","https://www.googleapis.com/auth/cloudplatformprojects.readonly","https://www.googleapis.com/auth/firebase","https://www.googleapis.com/auth/cloud-platform"]
+[debug] [2017-11-28T07:26:00.765Z] > authorizing via signed-in user
+[debug] [2017-11-28T07:26:00.768Z] > refreshing access token with scopes: ["email","https://www.googleapis.com/auth/cloud-platform","https://www.googleapis.com/auth/cloudplatformprojects.readonly","https://www.googleapis.com/auth/firebase","openid"]
+[debug] [2017-11-28T07:26:00.768Z] >>> HTTP REQUEST POST https://www.googleapis.com/oauth2/v3/token { refresh_token: '1/r6to0A7Fbm5At0H83ZCIExukj7m1nTuBv9Idm0naK5vIq_1FPERnG2U8w3cJSnxX',
+  client_id: '563584335869-fgrhgmd47bqnekij5i8b5pr03ho849e6.apps.googleusercontent.com',
+  client_secret: 'j9iVZfS8kkCEFUPaAeJV0sAi',
+  grant_type: 'refresh_token',
+  scope: 'email https://www.googleapis.com/auth/cloud-platform https://www.googleapis.com/auth/cloudplatformprojects.readonly https://www.googleapis.com/auth/firebase openid' } 
+ Tue Nov 28 2017 01:26:00 GMT-0600 (CST)
+[debug] [2017-11-28T07:26:01.113Z] <<< HTTP RESPONSE 200
+[debug] [2017-11-28T07:26:01.117Z] >>> HTTP REQUEST GET https://admin.firebase.com/v1/projects/counter-e1df6  
+ Tue Nov 28 2017 01:26:01 GMT-0600 (CST)
+[debug] [2017-11-28T07:26:01.617Z] <<< HTTP RESPONSE 200
+[debug] [2017-11-28T07:26:01.618Z] >>> HTTP REQUEST GET https://admin.firebase.com/v1/database/counter-e1df6/tokens  
+ Tue Nov 28 2017 01:26:01 GMT-0600 (CST)
+[debug] [2017-11-28T07:26:01.962Z] <<< HTTP RESPONSE 200
+[info] 
+[info] === Serving from '/Users/youngeon/Downloads/338project'...
+[info] 
+[debug] [2017-11-28T07:26:01.966Z] >>> HTTP REQUEST GET https://cloudresourcemanager.googleapis.com/v1/projects/counter-e1df6  
+ Tue Nov 28 2017 01:26:01 GMT-0600 (CST)
+[debug] [2017-11-28T07:26:02.161Z] <<< HTTP RESPONSE 200
+[debug] [2017-11-28T07:26:02.161Z] >>> HTTP REQUEST GET https://mobilesdk-pa.googleapis.com/v1/projects/253789270228/clients/_:getWebAppConfig  
+ Tue Nov 28 2017 01:26:02 GMT-0600 (CST)
+[debug] [2017-11-28T07:26:02.360Z] <<< HTTP RESPONSE 200
+[warn] ⚠  hosting: Port 5000 is not available. Trying another port...
+[debug] [2017-11-28T07:26:02.389Z] >>> HTTP REQUEST GET https://cloudresourcemanager.googleapis.com/v1/projects/counter-e1df6  
+ Tue Nov 28 2017 01:26:02 GMT-0600 (CST)
+[debug] [2017-11-28T07:26:02.605Z] <<< HTTP RESPONSE 200
+[debug] [2017-11-28T07:26:02.606Z] >>> HTTP REQUEST GET https://mobilesdk-pa.googleapis.com/v1/projects/253789270228/clients/_:getWebAppConfig  
+ Tue Nov 28 2017 01:26:02 GMT-0600 (CST)
+[debug] [2017-11-28T07:26:02.739Z] <<< HTTP RESPONSE 200
+[warn] ⚠  hosting: Port 5004 is not available. Trying another port...
+[debug] [2017-11-28T07:26:02.744Z] >>> HTTP REQUEST GET https://cloudresourcemanager.googleapis.com/v1/projects/counter-e1df6  
+ Tue Nov 28 2017 01:26:02 GMT-0600 (CST)
+[debug] [2017-11-28T07:26:03.189Z] <<< HTTP RESPONSE 200
+[debug] [2017-11-28T07:26:03.190Z] >>> HTTP REQUEST GET https://mobilesdk-pa.googleapis.com/v1/projects/253789270228/clients/_:getWebAppConfig  
+ Tue Nov 28 2017 01:26:03 GMT-0600 (CST)
+[debug] [2017-11-28T07:26:03.539Z] <<< HTTP RESPONSE 200
+[warn] ⚠  hosting: Port 5008 is not available. Trying another port...
+[debug] [2017-11-28T07:26:03.542Z] >>> HTTP REQUEST GET https://cloudresourcemanager.googleapis.com/v1/projects/counter-e1df6  
+ Tue Nov 28 2017 01:26:03 GMT-0600 (CST)
+[debug] [2017-11-28T07:26:03.692Z] <<< HTTP RESPONSE 200
+[debug] [2017-11-28T07:26:03.693Z] >>> HTTP REQUEST GET https://mobilesdk-pa.googleapis.com/v1/projects/253789270228/clients/_:getWebAppConfig  
+ Tue Nov 28 2017 01:26:03 GMT-0600 (CST)
+[debug] [2017-11-28T07:26:04.005Z] <<< HTTP RESPONSE 200
+[info] i  hosting: Serving hosting files from: ./
+[info] ✔  hosting: Local server: http://localhost:5012
+
+[debug] [2017-11-28T07:29:53.471Z] ----------------------------------------------------------------------
+[debug] [2017-11-28T07:29:53.475Z] Command:       /usr/local/bin/node /usr/local/bin/firebase serve
+[debug] [2017-11-28T07:29:53.475Z] CLI Version:   3.15.3
+[debug] [2017-11-28T07:29:53.476Z] Platform:      darwin
+[debug] [2017-11-28T07:29:53.476Z] Node Version:  v6.10.1
+[debug] [2017-11-28T07:29:53.476Z] Time:          Tue Nov 28 2017 01:29:53 GMT-0600 (CST)
+[debug] [2017-11-28T07:29:53.476Z] ----------------------------------------------------------------------
+[debug] 
+[debug] [2017-11-28T07:29:53.491Z] > command requires scopes: ["email","openid","https://www.googleapis.com/auth/cloudplatformprojects.readonly","https://www.googleapis.com/auth/firebase","https://www.googleapis.com/auth/cloud-platform"]
+[debug] [2017-11-28T07:29:53.492Z] > authorizing via signed-in user
+[debug] [2017-11-28T07:29:53.494Z] >>> HTTP REQUEST GET https://admin.firebase.com/v1/projects/counter-e1df6  
+ Tue Nov 28 2017 01:29:53 GMT-0600 (CST)
+[debug] [2017-11-28T07:29:54.184Z] <<< HTTP RESPONSE 200
+[debug] [2017-11-28T07:29:54.186Z] >>> HTTP REQUEST GET https://admin.firebase.com/v1/database/counter-e1df6/tokens  
+ Tue Nov 28 2017 01:29:54 GMT-0600 (CST)
+[debug] [2017-11-28T07:29:54.587Z] <<< HTTP RESPONSE 200
+[info] 
+[info] === Serving from '/Users/youngeon/Downloads/338project'...
+[info] 
+[debug] [2017-11-28T07:29:54.591Z] >>> HTTP REQUEST GET https://cloudresourcemanager.googleapis.com/v1/projects/counter-e1df6  
+ Tue Nov 28 2017 01:29:54 GMT-0600 (CST)
+[debug] [2017-11-28T07:29:54.837Z] <<< HTTP RESPONSE 200
+[debug] [2017-11-28T07:29:54.837Z] >>> HTTP REQUEST GET https://mobilesdk-pa.googleapis.com/v1/projects/253789270228/clients/_:getWebAppConfig  
+ Tue Nov 28 2017 01:29:54 GMT-0600 (CST)
+[debug] [2017-11-28T07:29:55.002Z] <<< HTTP RESPONSE 200
+[warn] ⚠  hosting: Port 5000 is not available. Trying another port...
+[debug] [2017-11-28T07:29:55.024Z] >>> HTTP REQUEST GET https://cloudresourcemanager.googleapis.com/v1/projects/counter-e1df6  
+ Tue Nov 28 2017 01:29:55 GMT-0600 (CST)
+[debug] [2017-11-28T07:29:55.149Z] <<< HTTP RESPONSE 200
+[debug] [2017-11-28T07:29:55.150Z] >>> HTTP REQUEST GET https://mobilesdk-pa.googleapis.com/v1/projects/253789270228/clients/_:getWebAppConfig  
+ Tue Nov 28 2017 01:29:55 GMT-0600 (CST)
+[debug] [2017-11-28T07:29:55.295Z] <<< HTTP RESPONSE 200
+[warn] ⚠  hosting: Port 5004 is not available. Trying another port...
+[debug] [2017-11-28T07:29:55.301Z] >>> HTTP REQUEST GET https://cloudresourcemanager.googleapis.com/v1/projects/counter-e1df6  
+ Tue Nov 28 2017 01:29:55 GMT-0600 (CST)
+[debug] [2017-11-28T07:29:55.417Z] <<< HTTP RESPONSE 200
+[debug] [2017-11-28T07:29:55.417Z] >>> HTTP REQUEST GET https://mobilesdk-pa.googleapis.com/v1/projects/253789270228/clients/_:getWebAppConfig  
+ Tue Nov 28 2017 01:29:55 GMT-0600 (CST)
+[debug] [2017-11-28T07:29:55.559Z] <<< HTTP RESPONSE 200
+[warn] ⚠  hosting: Port 5008 is not available. Trying another port...
+[debug] [2017-11-28T07:29:55.564Z] >>> HTTP REQUEST GET https://cloudresourcemanager.googleapis.com/v1/projects/counter-e1df6  
+ Tue Nov 28 2017 01:29:55 GMT-0600 (CST)
+[debug] [2017-11-28T07:29:55.679Z] <<< HTTP RESPONSE 200
+[debug] [2017-11-28T07:29:55.680Z] >>> HTTP REQUEST GET https://mobilesdk-pa.googleapis.com/v1/projects/253789270228/clients/_:getWebAppConfig  
+ Tue Nov 28 2017 01:29:55 GMT-0600 (CST)
+[debug] [2017-11-28T07:29:55.839Z] <<< HTTP RESPONSE 200
+[warn] ⚠  hosting: Port 5012 is not available. Trying another port...
+[debug] [2017-11-28T07:29:55.843Z] >>> HTTP REQUEST GET https://cloudresourcemanager.googleapis.com/v1/projects/counter-e1df6  
+ Tue Nov 28 2017 01:29:55 GMT-0600 (CST)
+[debug] [2017-11-28T07:29:56.017Z] <<< HTTP RESPONSE 200
+[debug] [2017-11-28T07:29:56.018Z] >>> HTTP REQUEST GET https://mobilesdk-pa.googleapis.com/v1/projects/253789270228/clients/_:getWebAppConfig  
+ Tue Nov 28 2017 01:29:56 GMT-0600 (CST)
+[debug] [2017-11-28T07:29:56.141Z] <<< HTTP RESPONSE 200
+[info] i  hosting: Serving hosting files from: ./
+[info] ✔  hosting: Local server: http://localhost:5016
+
+[debug] [2017-11-28T07:32:58.310Z] ----------------------------------------------------------------------
+[debug] [2017-11-28T07:32:58.313Z] Command:       /usr/local/bin/node /usr/local/bin/firebase serve
+[debug] [2017-11-28T07:32:58.314Z] CLI Version:   3.15.3
+[debug] [2017-11-28T07:32:58.314Z] Platform:      darwin
+[debug] [2017-11-28T07:32:58.314Z] Node Version:  v6.10.1
+[debug] [2017-11-28T07:32:58.315Z] Time:          Tue Nov 28 2017 01:32:58 GMT-0600 (CST)
+[debug] [2017-11-28T07:32:58.315Z] ----------------------------------------------------------------------
+[debug] 
+[debug] [2017-11-28T07:32:58.333Z] > command requires scopes: ["email","openid","https://www.googleapis.com/auth/cloudplatformprojects.readonly","https://www.googleapis.com/auth/firebase","https://www.googleapis.com/auth/cloud-platform"]
+[debug] [2017-11-28T07:32:58.333Z] > authorizing via signed-in user
+[debug] [2017-11-28T07:32:58.336Z] >>> HTTP REQUEST GET https://admin.firebase.com/v1/projects/counter-e1df6  
+ Tue Nov 28 2017 01:32:58 GMT-0600 (CST)
+[debug] [2017-11-28T07:32:58.564Z] <<< HTTP RESPONSE 200
+[debug] [2017-11-28T07:32:58.567Z] >>> HTTP REQUEST GET https://admin.firebase.com/v1/database/counter-e1df6/tokens  
+ Tue Nov 28 2017 01:32:58 GMT-0600 (CST)
+[debug] [2017-11-28T07:32:58.843Z] <<< HTTP RESPONSE 200
+[info] 
+[info] === Serving from '/Users/youngeon/Downloads/338project'...
+[info] 
+[debug] [2017-11-28T07:32:58.847Z] >>> HTTP REQUEST GET https://cloudresourcemanager.googleapis.com/v1/projects/counter-e1df6  
+ Tue Nov 28 2017 01:32:58 GMT-0600 (CST)
+[debug] [2017-11-28T07:32:58.986Z] <<< HTTP RESPONSE 200
+[debug] [2017-11-28T07:32:58.987Z] >>> HTTP REQUEST GET https://mobilesdk-pa.googleapis.com/v1/projects/253789270228/clients/_:getWebAppConfig  
+ Tue Nov 28 2017 01:32:58 GMT-0600 (CST)
+[debug] [2017-11-28T07:32:59.234Z] <<< HTTP RESPONSE 200
+[warn] ⚠  hosting: Port 5000 is not available. Trying another port...
+[debug] [2017-11-28T07:32:59.264Z] >>> HTTP REQUEST GET https://cloudresourcemanager.googleapis.com/v1/projects/counter-e1df6  
+ Tue Nov 28 2017 01:32:59 GMT-0600 (CST)
+[debug] [2017-11-28T07:32:59.420Z] <<< HTTP RESPONSE 200
+[debug] [2017-11-28T07:32:59.421Z] >>> HTTP REQUEST GET https://mobilesdk-pa.googleapis.com/v1/projects/253789270228/clients/_:getWebAppConfig  
+ Tue Nov 28 2017 01:32:59 GMT-0600 (CST)
+[debug] [2017-11-28T07:32:59.580Z] <<< HTTP RESPONSE 200
+[warn] ⚠  hosting: Port 5004 is not available. Trying another port...
+[debug] [2017-11-28T07:32:59.584Z] >>> HTTP REQUEST GET https://cloudresourcemanager.googleapis.com/v1/projects/counter-e1df6  
+ Tue Nov 28 2017 01:32:59 GMT-0600 (CST)
+[debug] [2017-11-28T07:32:59.699Z] <<< HTTP RESPONSE 200
+[debug] [2017-11-28T07:32:59.700Z] >>> HTTP REQUEST GET https://mobilesdk-pa.googleapis.com/v1/projects/253789270228/clients/_:getWebAppConfig  
+ Tue Nov 28 2017 01:32:59 GMT-0600 (CST)
+[debug] [2017-11-28T07:33:00.033Z] <<< HTTP RESPONSE 200
+[warn] ⚠  hosting: Port 5008 is not available. Trying another port...
+[debug] [2017-11-28T07:33:00.037Z] >>> HTTP REQUEST GET https://cloudresourcemanager.googleapis.com/v1/projects/counter-e1df6  
+ Tue Nov 28 2017 01:33:00 GMT-0600 (CST)
+[debug] [2017-11-28T07:33:00.322Z] <<< HTTP RESPONSE 200
+[debug] [2017-11-28T07:33:00.323Z] >>> HTTP REQUEST GET https://mobilesdk-pa.googleapis.com/v1/projects/253789270228/clients/_:getWebAppConfig  
+ Tue Nov 28 2017 01:33:00 GMT-0600 (CST)
+[debug] [2017-11-28T07:33:00.541Z] <<< HTTP RESPONSE 200
+[warn] ⚠  hosting: Port 5012 is not available. Trying another port...
+[debug] [2017-11-28T07:33:00.543Z] >>> HTTP REQUEST GET https://cloudresourcemanager.googleapis.com/v1/projects/counter-e1df6  
+ Tue Nov 28 2017 01:33:00 GMT-0600 (CST)
+[debug] [2017-11-28T07:33:00.756Z] <<< HTTP RESPONSE 200
+[debug] [2017-11-28T07:33:00.757Z] >>> HTTP REQUEST GET https://mobilesdk-pa.googleapis.com/v1/projects/253789270228/clients/_:getWebAppConfig  
+ Tue Nov 28 2017 01:33:00 GMT-0600 (CST)
+[debug] [2017-11-28T07:33:00.988Z] <<< HTTP RESPONSE 200
+[warn] ⚠  hosting: Port 5016 is not available. Trying another port...
+[debug] [2017-11-28T07:33:00.991Z] >>> HTTP REQUEST GET https://cloudresourcemanager.googleapis.com/v1/projects/counter-e1df6  
+ Tue Nov 28 2017 01:33:00 GMT-0600 (CST)
+[debug] [2017-11-28T07:33:01.100Z] <<< HTTP RESPONSE 200
+[debug] [2017-11-28T07:33:01.101Z] >>> HTTP REQUEST GET https://mobilesdk-pa.googleapis.com/v1/projects/253789270228/clients/_:getWebAppConfig  
+ Tue Nov 28 2017 01:33:01 GMT-0600 (CST)
+[debug] [2017-11-28T07:33:01.348Z] <<< HTTP RESPONSE 200
+[info] i  hosting: Serving hosting files from: ./
+[info] ✔  hosting: Local server: http://localhost:5020
+
+[debug] [2017-11-28T07:33:38.837Z] ----------------------------------------------------------------------
+[debug] [2017-11-28T07:33:38.847Z] Command:       /usr/local/bin/node /usr/local/bin/firebase serve
+[debug] [2017-11-28T07:33:38.849Z] CLI Version:   3.15.3
+[debug] [2017-11-28T07:33:38.849Z] Platform:      darwin
+[debug] [2017-11-28T07:33:38.849Z] Node Version:  v6.10.1
+[debug] [2017-11-28T07:33:38.850Z] Time:          Tue Nov 28 2017 01:33:38 GMT-0600 (CST)
+[debug] [2017-11-28T07:33:38.850Z] ----------------------------------------------------------------------
+[debug] 
+[debug] [2017-11-28T07:33:38.876Z] > command requires scopes: ["email","openid","https://www.googleapis.com/auth/cloudplatformprojects.readonly","https://www.googleapis.com/auth/firebase","https://www.googleapis.com/auth/cloud-platform"]
+[debug] [2017-11-28T07:33:38.876Z] > authorizing via signed-in user
+[debug] [2017-11-28T07:33:38.879Z] >>> HTTP REQUEST GET https://admin.firebase.com/v1/projects/counter-e1df6  
+ Tue Nov 28 2017 01:33:38 GMT-0600 (CST)
+[debug] [2017-11-28T07:33:39.180Z] <<< HTTP RESPONSE 200
+[debug] [2017-11-28T07:33:39.181Z] >>> HTTP REQUEST GET https://admin.firebase.com/v1/database/counter-e1df6/tokens  
+ Tue Nov 28 2017 01:33:39 GMT-0600 (CST)
+[debug] [2017-11-28T07:33:39.664Z] <<< HTTP RESPONSE 200
+[info] 
+[info] === Serving from '/Users/youngeon/Downloads/338project'...
+[info] 
+[debug] [2017-11-28T07:33:39.668Z] >>> HTTP REQUEST GET https://cloudresourcemanager.googleapis.com/v1/projects/counter-e1df6  
+ Tue Nov 28 2017 01:33:39 GMT-0600 (CST)
+[debug] [2017-11-28T07:33:39.811Z] <<< HTTP RESPONSE 200
+[debug] [2017-11-28T07:33:39.811Z] >>> HTTP REQUEST GET https://mobilesdk-pa.googleapis.com/v1/projects/253789270228/clients/_:getWebAppConfig  
+ Tue Nov 28 2017 01:33:39 GMT-0600 (CST)
+[debug] [2017-11-28T07:33:39.992Z] <<< HTTP RESPONSE 200
+[warn] ⚠  hosting: Port 5000 is not available. Trying another port...
+[debug] [2017-11-28T07:33:40.013Z] >>> HTTP REQUEST GET https://cloudresourcemanager.googleapis.com/v1/projects/counter-e1df6  
+ Tue Nov 28 2017 01:33:40 GMT-0600 (CST)
+[debug] [2017-11-28T07:33:40.235Z] <<< HTTP RESPONSE 200
+[debug] [2017-11-28T07:33:40.236Z] >>> HTTP REQUEST GET https://mobilesdk-pa.googleapis.com/v1/projects/253789270228/clients/_:getWebAppConfig  
+ Tue Nov 28 2017 01:33:40 GMT-0600 (CST)
+[debug] [2017-11-28T07:33:40.404Z] <<< HTTP RESPONSE 200
+[warn] ⚠  hosting: Port 5004 is not available. Trying another port...
+[debug] [2017-11-28T07:33:40.408Z] >>> HTTP REQUEST GET https://cloudresourcemanager.googleapis.com/v1/projects/counter-e1df6  
+ Tue Nov 28 2017 01:33:40 GMT-0600 (CST)
+[debug] [2017-11-28T07:33:40.606Z] <<< HTTP RESPONSE 200
+[debug] [2017-11-28T07:33:40.607Z] >>> HTTP REQUEST GET https://mobilesdk-pa.googleapis.com/v1/projects/253789270228/clients/_:getWebAppConfig  
+ Tue Nov 28 2017 01:33:40 GMT-0600 (CST)
+[debug] [2017-11-28T07:33:40.835Z] <<< HTTP RESPONSE 200
+[warn] ⚠  hosting: Port 5008 is not available. Trying another port...
+[debug] [2017-11-28T07:33:40.843Z] >>> HTTP REQUEST GET https://cloudresourcemanager.googleapis.com/v1/projects/counter-e1df6  
+ Tue Nov 28 2017 01:33:40 GMT-0600 (CST)
+[debug] [2017-11-28T07:33:40.971Z] <<< HTTP RESPONSE 200
+[debug] [2017-11-28T07:33:40.972Z] >>> HTTP REQUEST GET https://mobilesdk-pa.googleapis.com/v1/projects/253789270228/clients/_:getWebAppConfig  
+ Tue Nov 28 2017 01:33:40 GMT-0600 (CST)
+[debug] [2017-11-28T07:33:41.260Z] <<< HTTP RESPONSE 200
+[warn] ⚠  hosting: Port 5012 is not available. Trying another port...
+[debug] [2017-11-28T07:33:41.268Z] >>> HTTP REQUEST GET https://cloudresourcemanager.googleapis.com/v1/projects/counter-e1df6  
+ Tue Nov 28 2017 01:33:41 GMT-0600 (CST)
+[debug] [2017-11-28T07:33:41.426Z] <<< HTTP RESPONSE 200
+[debug] [2017-11-28T07:33:41.426Z] >>> HTTP REQUEST GET https://mobilesdk-pa.googleapis.com/v1/projects/253789270228/clients/_:getWebAppConfig  
+ Tue Nov 28 2017 01:33:41 GMT-0600 (CST)
+[debug] [2017-11-28T07:33:41.716Z] <<< HTTP RESPONSE 200
+[warn] ⚠  hosting: Port 5016 is not available. Trying another port...
+[debug] [2017-11-28T07:33:41.718Z] >>> HTTP REQUEST GET https://cloudresourcemanager.googleapis.com/v1/projects/counter-e1df6  
+ Tue Nov 28 2017 01:33:41 GMT-0600 (CST)
+[debug] [2017-11-28T07:33:41.872Z] <<< HTTP RESPONSE 200
+[debug] [2017-11-28T07:33:41.872Z] >>> HTTP REQUEST GET https://mobilesdk-pa.googleapis.com/v1/projects/253789270228/clients/_:getWebAppConfig  
+ Tue Nov 28 2017 01:33:41 GMT-0600 (CST)
+[debug] [2017-11-28T07:33:42.069Z] <<< HTTP RESPONSE 200
+[warn] ⚠  hosting: Port 5020 is not available. Trying another port...
+[debug] [2017-11-28T07:33:42.074Z] >>> HTTP REQUEST GET https://cloudresourcemanager.googleapis.com/v1/projects/counter-e1df6  
+ Tue Nov 28 2017 01:33:42 GMT-0600 (CST)
+[debug] [2017-11-28T07:33:42.196Z] <<< HTTP RESPONSE 200
+[debug] [2017-11-28T07:33:42.197Z] >>> HTTP REQUEST GET https://mobilesdk-pa.googleapis.com/v1/projects/253789270228/clients/_:getWebAppConfig  
+ Tue Nov 28 2017 01:33:42 GMT-0600 (CST)
+[debug] [2017-11-28T07:33:42.416Z] <<< HTTP RESPONSE 200
+[info] i  hosting: Serving hosting files from: ./
+[info] ✔  hosting: Local server: http://localhost:5024
+
+[debug] [2017-11-28T08:14:51.402Z] ----------------------------------------------------------------------
+[debug] [2017-11-28T08:14:51.407Z] Command:       /usr/local/bin/node /usr/local/bin/firebase serve
+[debug] [2017-11-28T08:14:51.408Z] CLI Version:   3.15.3
+[debug] [2017-11-28T08:14:51.408Z] Platform:      darwin
+[debug] [2017-11-28T08:14:51.408Z] Node Version:  v6.10.1
+[debug] [2017-11-28T08:14:51.408Z] Time:          Tue Nov 28 2017 02:14:51 GMT-0600 (CST)
+[debug] [2017-11-28T08:14:51.408Z] ----------------------------------------------------------------------
+[debug] 
+[debug] [2017-11-28T08:14:51.424Z] > command requires scopes: ["email","openid","https://www.googleapis.com/auth/cloudplatformprojects.readonly","https://www.googleapis.com/auth/firebase","https://www.googleapis.com/auth/cloud-platform"]
+[debug] [2017-11-28T08:14:51.425Z] > authorizing via signed-in user
+[debug] [2017-11-28T08:14:51.427Z] > refreshing access token with scopes: ["email","https://www.googleapis.com/auth/cloud-platform","https://www.googleapis.com/auth/cloudplatformprojects.readonly","https://www.googleapis.com/auth/firebase","openid"]
+[debug] [2017-11-28T08:14:51.427Z] >>> HTTP REQUEST POST https://www.googleapis.com/oauth2/v3/token { refresh_token: '1/r6to0A7Fbm5At0H83ZCIExukj7m1nTuBv9Idm0naK5vIq_1FPERnG2U8w3cJSnxX',
+  client_id: '563584335869-fgrhgmd47bqnekij5i8b5pr03ho849e6.apps.googleusercontent.com',
+  client_secret: 'j9iVZfS8kkCEFUPaAeJV0sAi',
+  grant_type: 'refresh_token',
+  scope: 'email https://www.googleapis.com/auth/cloud-platform https://www.googleapis.com/auth/cloudplatformprojects.readonly https://www.googleapis.com/auth/firebase openid' } 
+ Tue Nov 28 2017 02:14:51 GMT-0600 (CST)
+[debug] [2017-11-28T08:14:51.556Z] <<< HTTP RESPONSE 200
+[debug] [2017-11-28T08:14:51.559Z] >>> HTTP REQUEST GET https://admin.firebase.com/v1/projects/counter-e1df6  
+ Tue Nov 28 2017 02:14:51 GMT-0600 (CST)
+[debug] [2017-11-28T08:14:51.828Z] <<< HTTP RESPONSE 200
+[debug] [2017-11-28T08:14:51.829Z] >>> HTTP REQUEST GET https://admin.firebase.com/v1/database/counter-e1df6/tokens  
+ Tue Nov 28 2017 02:14:51 GMT-0600 (CST)
+[debug] [2017-11-28T08:14:52.102Z] <<< HTTP RESPONSE 200
+[info] 
+[info] === Serving from '/Users/youngeon/Downloads/338project'...
+[info] 
+[debug] [2017-11-28T08:14:52.106Z] >>> HTTP REQUEST GET https://cloudresourcemanager.googleapis.com/v1/projects/counter-e1df6  
+ Tue Nov 28 2017 02:14:52 GMT-0600 (CST)
+[debug] [2017-11-28T08:14:52.324Z] <<< HTTP RESPONSE 200
+[debug] [2017-11-28T08:14:52.325Z] >>> HTTP REQUEST GET https://mobilesdk-pa.googleapis.com/v1/projects/253789270228/clients/_:getWebAppConfig  
+ Tue Nov 28 2017 02:14:52 GMT-0600 (CST)
+[debug] [2017-11-28T08:14:52.538Z] <<< HTTP RESPONSE 200
+[info] i  hosting: Serving hosting files from: ./
+[info] ✔  hosting: Local server: http://localhost:5000
+
+[debug] [2017-11-28T08:24:18.407Z] ----------------------------------------------------------------------
+[debug] [2017-11-28T08:24:18.410Z] Command:       /usr/local/bin/node /usr/local/bin/firebase serve
+[debug] [2017-11-28T08:24:18.411Z] CLI Version:   3.15.3
+[debug] [2017-11-28T08:24:18.411Z] Platform:      darwin
+[debug] [2017-11-28T08:24:18.411Z] Node Version:  v6.10.1
+[debug] [2017-11-28T08:24:18.412Z] Time:          Tue Nov 28 2017 02:24:18 GMT-0600 (CST)
+[debug] [2017-11-28T08:24:18.412Z] ----------------------------------------------------------------------
+[debug] 
+[debug] [2017-11-28T08:24:18.426Z] > command requires scopes: ["email","openid","https://www.googleapis.com/auth/cloudplatformprojects.readonly","https://www.googleapis.com/auth/firebase","https://www.googleapis.com/auth/cloud-platform"]
+[debug] [2017-11-28T08:24:18.426Z] > authorizing via signed-in user
+[debug] [2017-11-28T08:24:18.428Z] >>> HTTP REQUEST GET https://admin.firebase.com/v1/projects/counter-e1df6  
+ Tue Nov 28 2017 02:24:18 GMT-0600 (CST)
+[debug] [2017-11-28T08:24:19.109Z] <<< HTTP RESPONSE 200
+[debug] [2017-11-28T08:24:19.111Z] >>> HTTP REQUEST GET https://admin.firebase.com/v1/database/counter-e1df6/tokens  
+ Tue Nov 28 2017 02:24:19 GMT-0600 (CST)
+[debug] [2017-11-28T08:24:19.520Z] <<< HTTP RESPONSE 200
+[info] 
+[info] === Serving from '/Users/youngeon/Downloads/338project'...
+[info] 
+[debug] [2017-11-28T08:24:19.525Z] >>> HTTP REQUEST GET https://cloudresourcemanager.googleapis.com/v1/projects/counter-e1df6  
+ Tue Nov 28 2017 02:24:19 GMT-0600 (CST)
+[debug] [2017-11-28T08:24:19.944Z] <<< HTTP RESPONSE 200
+[debug] [2017-11-28T08:24:19.944Z] >>> HTTP REQUEST GET https://mobilesdk-pa.googleapis.com/v1/projects/253789270228/clients/_:getWebAppConfig  
+ Tue Nov 28 2017 02:24:19 GMT-0600 (CST)
+[debug] [2017-11-28T08:24:20.251Z] <<< HTTP RESPONSE 200
+[warn] ⚠  hosting: Port 5000 is not available. Trying another port...
+[debug] [2017-11-28T08:24:20.271Z] >>> HTTP REQUEST GET https://cloudresourcemanager.googleapis.com/v1/projects/counter-e1df6  
+ Tue Nov 28 2017 02:24:20 GMT-0600 (CST)
+[debug] [2017-11-28T08:24:20.397Z] <<< HTTP RESPONSE 200
+[debug] [2017-11-28T08:24:20.397Z] >>> HTTP REQUEST GET https://mobilesdk-pa.googleapis.com/v1/projects/253789270228/clients/_:getWebAppConfig  
+ Tue Nov 28 2017 02:24:20 GMT-0600 (CST)
+[debug] [2017-11-28T08:24:20.546Z] <<< HTTP RESPONSE 200
+[info] i  hosting: Serving hosting files from: ./
+[info] ✔  hosting: Local server: http://localhost:5004
+
+[debug] [2017-11-28T08:24:53.792Z] ----------------------------------------------------------------------
+[debug] [2017-11-28T08:24:53.795Z] Command:       /usr/local/bin/node /usr/local/bin/firebase serve
+[debug] [2017-11-28T08:24:53.795Z] CLI Version:   3.15.3
+[debug] [2017-11-28T08:24:53.796Z] Platform:      darwin
+[debug] [2017-11-28T08:24:53.796Z] Node Version:  v6.10.1
+[debug] [2017-11-28T08:24:53.796Z] Time:          Tue Nov 28 2017 02:24:53 GMT-0600 (CST)
+[debug] [2017-11-28T08:24:53.796Z] ----------------------------------------------------------------------
+[debug] 
+[debug] [2017-11-28T08:24:53.815Z] > command requires scopes: ["email","openid","https://www.googleapis.com/auth/cloudplatformprojects.readonly","https://www.googleapis.com/auth/firebase","https://www.googleapis.com/auth/cloud-platform"]
+[debug] [2017-11-28T08:24:53.816Z] > authorizing via signed-in user
+[debug] [2017-11-28T08:24:53.819Z] >>> HTTP REQUEST GET https://admin.firebase.com/v1/projects/counter-e1df6  
+ Tue Nov 28 2017 02:24:53 GMT-0600 (CST)
+[debug] [2017-11-28T08:24:54.077Z] <<< HTTP RESPONSE 200
+[debug] [2017-11-28T08:24:54.078Z] >>> HTTP REQUEST GET https://admin.firebase.com/v1/database/counter-e1df6/tokens  
+ Tue Nov 28 2017 02:24:54 GMT-0600 (CST)
+[debug] [2017-11-28T08:24:54.312Z] <<< HTTP RESPONSE 200
+[info] 
+[info] === Serving from '/Users/youngeon/Downloads/338project'...
+[info] 
+[debug] [2017-11-28T08:24:54.318Z] >>> HTTP REQUEST GET https://cloudresourcemanager.googleapis.com/v1/projects/counter-e1df6  
+ Tue Nov 28 2017 02:24:54 GMT-0600 (CST)
+[debug] [2017-11-28T08:24:54.462Z] <<< HTTP RESPONSE 200
+[debug] [2017-11-28T08:24:54.462Z] >>> HTTP REQUEST GET https://mobilesdk-pa.googleapis.com/v1/projects/253789270228/clients/_:getWebAppConfig  
+ Tue Nov 28 2017 02:24:54 GMT-0600 (CST)
+[debug] [2017-11-28T08:24:54.652Z] <<< HTTP RESPONSE 200
+[warn] ⚠  hosting: Port 5000 is not available. Trying another port...
+[debug] [2017-11-28T08:24:54.676Z] >>> HTTP REQUEST GET https://cloudresourcemanager.googleapis.com/v1/projects/counter-e1df6  
+ Tue Nov 28 2017 02:24:54 GMT-0600 (CST)
+[debug] [2017-11-28T08:24:54.792Z] <<< HTTP RESPONSE 200
+[debug] [2017-11-28T08:24:54.792Z] >>> HTTP REQUEST GET https://mobilesdk-pa.googleapis.com/v1/projects/253789270228/clients/_:getWebAppConfig  
+ Tue Nov 28 2017 02:24:54 GMT-0600 (CST)
+[debug] [2017-11-28T08:24:54.944Z] <<< HTTP RESPONSE 200
+[warn] ⚠  hosting: Port 5004 is not available. Trying another port...
+[debug] [2017-11-28T08:24:54.949Z] >>> HTTP REQUEST GET https://cloudresourcemanager.googleapis.com/v1/projects/counter-e1df6  
+ Tue Nov 28 2017 02:24:54 GMT-0600 (CST)
+[debug] [2017-11-28T08:24:55.064Z] <<< HTTP RESPONSE 200
+[debug] [2017-11-28T08:24:55.065Z] >>> HTTP REQUEST GET https://mobilesdk-pa.googleapis.com/v1/projects/253789270228/clients/_:getWebAppConfig  
+ Tue Nov 28 2017 02:24:55 GMT-0600 (CST)
+[debug] [2017-11-28T08:24:55.204Z] <<< HTTP RESPONSE 200
+[info] i  hosting: Serving hosting files from: ./
+[info] ✔  hosting: Local server: http://localhost:5008
+
+[debug] [2017-11-28T08:34:07.415Z] ----------------------------------------------------------------------
+[debug] [2017-11-28T08:34:07.418Z] Command:       /usr/local/bin/node /usr/local/bin/firebase serve
+[debug] [2017-11-28T08:34:07.418Z] CLI Version:   3.15.3
+[debug] [2017-11-28T08:34:07.418Z] Platform:      darwin
+[debug] [2017-11-28T08:34:07.418Z] Node Version:  v6.10.1
+[debug] [2017-11-28T08:34:07.419Z] Time:          Tue Nov 28 2017 02:34:07 GMT-0600 (CST)
+[debug] [2017-11-28T08:34:07.419Z] ----------------------------------------------------------------------
+[debug] 
+[debug] [2017-11-28T08:34:07.435Z] > command requires scopes: ["email","openid","https://www.googleapis.com/auth/cloudplatformprojects.readonly","https://www.googleapis.com/auth/firebase","https://www.googleapis.com/auth/cloud-platform"]
+[debug] [2017-11-28T08:34:07.436Z] > authorizing via signed-in user
+[debug] [2017-11-28T08:34:07.438Z] >>> HTTP REQUEST GET https://admin.firebase.com/v1/projects/counter-e1df6  
+ Tue Nov 28 2017 02:34:07 GMT-0600 (CST)
+[debug] [2017-11-28T08:34:08.143Z] <<< HTTP RESPONSE 200
+[debug] [2017-11-28T08:34:08.145Z] >>> HTTP REQUEST GET https://admin.firebase.com/v1/database/counter-e1df6/tokens  
+ Tue Nov 28 2017 02:34:08 GMT-0600 (CST)
+[debug] [2017-11-28T08:34:08.650Z] <<< HTTP RESPONSE 200
+[info] 
+[info] === Serving from '/Users/youngeon/Downloads/338project'...
+[info] 
+[debug] [2017-11-28T08:34:08.654Z] >>> HTTP REQUEST GET https://cloudresourcemanager.googleapis.com/v1/projects/counter-e1df6  
+ Tue Nov 28 2017 02:34:08 GMT-0600 (CST)
+[debug] [2017-11-28T08:34:08.793Z] <<< HTTP RESPONSE 200
+[debug] [2017-11-28T08:34:08.794Z] >>> HTTP REQUEST GET https://mobilesdk-pa.googleapis.com/v1/projects/253789270228/clients/_:getWebAppConfig  
+ Tue Nov 28 2017 02:34:08 GMT-0600 (CST)
+[debug] [2017-11-28T08:34:09.002Z] <<< HTTP RESPONSE 200
+[warn] ⚠  hosting: Port 5000 is not available. Trying another port...
+[debug] [2017-11-28T08:34:09.026Z] >>> HTTP REQUEST GET https://cloudresourcemanager.googleapis.com/v1/projects/counter-e1df6  
+ Tue Nov 28 2017 02:34:09 GMT-0600 (CST)
+[debug] [2017-11-28T08:34:09.143Z] <<< HTTP RESPONSE 200
+[debug] [2017-11-28T08:34:09.144Z] >>> HTTP REQUEST GET https://mobilesdk-pa.googleapis.com/v1/projects/253789270228/clients/_:getWebAppConfig  
+ Tue Nov 28 2017 02:34:09 GMT-0600 (CST)
+[debug] [2017-11-28T08:34:09.321Z] <<< HTTP RESPONSE 200
+[warn] ⚠  hosting: Port 5004 is not available. Trying another port...
+[debug] [2017-11-28T08:34:09.326Z] >>> HTTP REQUEST GET https://cloudresourcemanager.googleapis.com/v1/projects/counter-e1df6  
+ Tue Nov 28 2017 02:34:09 GMT-0600 (CST)
+[debug] [2017-11-28T08:34:09.463Z] <<< HTTP RESPONSE 200
+[debug] [2017-11-28T08:34:09.463Z] >>> HTTP REQUEST GET https://mobilesdk-pa.googleapis.com/v1/projects/253789270228/clients/_:getWebAppConfig  
+ Tue Nov 28 2017 02:34:09 GMT-0600 (CST)
+[debug] [2017-11-28T08:34:09.713Z] <<< HTTP RESPONSE 200
+[warn] ⚠  hosting: Port 5008 is not available. Trying another port...
+[debug] [2017-11-28T08:34:09.717Z] >>> HTTP REQUEST GET https://cloudresourcemanager.googleapis.com/v1/projects/counter-e1df6  
+ Tue Nov 28 2017 02:34:09 GMT-0600 (CST)
+[debug] [2017-11-28T08:34:09.835Z] <<< HTTP RESPONSE 200
+[debug] [2017-11-28T08:34:09.836Z] >>> HTTP REQUEST GET https://mobilesdk-pa.googleapis.com/v1/projects/253789270228/clients/_:getWebAppConfig  
+ Tue Nov 28 2017 02:34:09 GMT-0600 (CST)
+[debug] [2017-11-28T08:34:09.963Z] <<< HTTP RESPONSE 200
+[info] i  hosting: Serving hosting files from: ./
+[info] ✔  hosting: Local server: http://localhost:5012
+
+[debug] [2017-11-28T08:39:42.232Z] ----------------------------------------------------------------------
+[debug] [2017-11-28T08:39:42.236Z] Command:       /usr/local/bin/node /usr/local/bin/firebase serve
+[debug] [2017-11-28T08:39:42.236Z] CLI Version:   3.15.3
+[debug] [2017-11-28T08:39:42.237Z] Platform:      darwin
+[debug] [2017-11-28T08:39:42.237Z] Node Version:  v6.10.1
+[debug] [2017-11-28T08:39:42.238Z] Time:          Tue Nov 28 2017 02:39:42 GMT-0600 (CST)
+[debug] [2017-11-28T08:39:42.238Z] ----------------------------------------------------------------------
+[debug] 
+[debug] [2017-11-28T08:39:42.253Z] > command requires scopes: ["email","openid","https://www.googleapis.com/auth/cloudplatformprojects.readonly","https://www.googleapis.com/auth/firebase","https://www.googleapis.com/auth/cloud-platform"]
+[debug] [2017-11-28T08:39:42.253Z] > authorizing via signed-in user
+[debug] [2017-11-28T08:39:42.256Z] >>> HTTP REQUEST GET https://admin.firebase.com/v1/projects/counter-e1df6  
+ Tue Nov 28 2017 02:39:42 GMT-0600 (CST)
+[debug] [2017-11-28T08:39:42.948Z] <<< HTTP RESPONSE 200
+[debug] [2017-11-28T08:39:42.950Z] >>> HTTP REQUEST GET https://admin.firebase.com/v1/database/counter-e1df6/tokens  
+ Tue Nov 28 2017 02:39:42 GMT-0600 (CST)
+[debug] [2017-11-28T08:39:43.289Z] <<< HTTP RESPONSE 200
+[info] 
+[info] === Serving from '/Users/youngeon/Downloads/338project'...
+[info] 
+[debug] [2017-11-28T08:39:43.292Z] >>> HTTP REQUEST GET https://cloudresourcemanager.googleapis.com/v1/projects/counter-e1df6  
+ Tue Nov 28 2017 02:39:43 GMT-0600 (CST)
+[debug] [2017-11-28T08:39:43.635Z] <<< HTTP RESPONSE 200
+[debug] [2017-11-28T08:39:43.635Z] >>> HTTP REQUEST GET https://mobilesdk-pa.googleapis.com/v1/projects/253789270228/clients/_:getWebAppConfig  
+ Tue Nov 28 2017 02:39:43 GMT-0600 (CST)
+[debug] [2017-11-28T08:39:44.121Z] <<< HTTP RESPONSE 200
+[warn] ⚠  hosting: Port 5000 is not available. Trying another port...
+[debug] [2017-11-28T08:39:44.137Z] >>> HTTP REQUEST GET https://cloudresourcemanager.googleapis.com/v1/projects/counter-e1df6  
+ Tue Nov 28 2017 02:39:44 GMT-0600 (CST)
+[debug] [2017-11-28T08:39:44.297Z] <<< HTTP RESPONSE 200
+[debug] [2017-11-28T08:39:44.297Z] >>> HTTP REQUEST GET https://mobilesdk-pa.googleapis.com/v1/projects/253789270228/clients/_:getWebAppConfig  
+ Tue Nov 28 2017 02:39:44 GMT-0600 (CST)
+[debug] [2017-11-28T08:39:44.446Z] <<< HTTP RESPONSE 200
+[warn] ⚠  hosting: Port 5004 is not available. Trying another port...
+[debug] [2017-11-28T08:39:44.451Z] >>> HTTP REQUEST GET https://cloudresourcemanager.googleapis.com/v1/projects/counter-e1df6  
+ Tue Nov 28 2017 02:39:44 GMT-0600 (CST)
+[debug] [2017-11-28T08:39:44.757Z] <<< HTTP RESPONSE 200
+[debug] [2017-11-28T08:39:44.757Z] >>> HTTP REQUEST GET https://mobilesdk-pa.googleapis.com/v1/projects/253789270228/clients/_:getWebAppConfig  
+ Tue Nov 28 2017 02:39:44 GMT-0600 (CST)
+[debug] [2017-11-28T08:39:45.083Z] <<< HTTP RESPONSE 200
+[warn] ⚠  hosting: Port 5008 is not available. Trying another port...
+[debug] [2017-11-28T08:39:45.087Z] >>> HTTP REQUEST GET https://cloudresourcemanager.googleapis.com/v1/projects/counter-e1df6  
+ Tue Nov 28 2017 02:39:45 GMT-0600 (CST)
+[debug] [2017-11-28T08:39:45.243Z] <<< HTTP RESPONSE 200
+[debug] [2017-11-28T08:39:45.244Z] >>> HTTP REQUEST GET https://mobilesdk-pa.googleapis.com/v1/projects/253789270228/clients/_:getWebAppConfig  
+ Tue Nov 28 2017 02:39:45 GMT-0600 (CST)
+[debug] [2017-11-28T08:39:45.423Z] <<< HTTP RESPONSE 200
+[warn] ⚠  hosting: Port 5012 is not available. Trying another port...
+[debug] [2017-11-28T08:39:45.426Z] >>> HTTP REQUEST GET https://cloudresourcemanager.googleapis.com/v1/projects/counter-e1df6  
+ Tue Nov 28 2017 02:39:45 GMT-0600 (CST)
+[debug] [2017-11-28T08:39:45.596Z] <<< HTTP RESPONSE 200
+[debug] [2017-11-28T08:39:45.596Z] >>> HTTP REQUEST GET https://mobilesdk-pa.googleapis.com/v1/projects/253789270228/clients/_:getWebAppConfig  
+ Tue Nov 28 2017 02:39:45 GMT-0600 (CST)
+[debug] [2017-11-28T08:39:45.823Z] <<< HTTP RESPONSE 200
+[info] i  hosting: Serving hosting files from: ./
+[info] ✔  hosting: Local server: http://localhost:5016
+
+[debug] [2017-11-28T08:44:42.926Z] ----------------------------------------------------------------------
+[debug] [2017-11-28T08:44:42.930Z] Command:       /usr/local/bin/node /usr/local/bin/firebase serve
+[debug] [2017-11-28T08:44:42.931Z] CLI Version:   3.15.3
+[debug] [2017-11-28T08:44:42.931Z] Platform:      darwin
+[debug] [2017-11-28T08:44:42.931Z] Node Version:  v6.10.1
+[debug] [2017-11-28T08:44:42.932Z] Time:          Tue Nov 28 2017 02:44:42 GMT-0600 (CST)
+[debug] [2017-11-28T08:44:42.932Z] ----------------------------------------------------------------------
+[debug] 
+[debug] [2017-11-28T08:44:42.950Z] > command requires scopes: ["email","openid","https://www.googleapis.com/auth/cloudplatformprojects.readonly","https://www.googleapis.com/auth/firebase","https://www.googleapis.com/auth/cloud-platform"]
+[debug] [2017-11-28T08:44:42.950Z] > authorizing via signed-in user
+[debug] [2017-11-28T08:44:42.954Z] >>> HTTP REQUEST GET https://admin.firebase.com/v1/projects/counter-e1df6  
+ Tue Nov 28 2017 02:44:42 GMT-0600 (CST)
+[debug] [2017-11-28T08:44:43.401Z] <<< HTTP RESPONSE 200
+[debug] [2017-11-28T08:44:43.403Z] >>> HTTP REQUEST GET https://admin.firebase.com/v1/database/counter-e1df6/tokens  
+ Tue Nov 28 2017 02:44:43 GMT-0600 (CST)
+[debug] [2017-11-28T08:44:43.693Z] <<< HTTP RESPONSE 200
+[info] 
+[info] === Serving from '/Users/youngeon/Downloads/338project'...
+[info] 
+[debug] [2017-11-28T08:44:43.697Z] >>> HTTP REQUEST GET https://cloudresourcemanager.googleapis.com/v1/projects/counter-e1df6  
+ Tue Nov 28 2017 02:44:43 GMT-0600 (CST)
+[debug] [2017-11-28T08:44:43.850Z] <<< HTTP RESPONSE 200
+[debug] [2017-11-28T08:44:43.851Z] >>> HTTP REQUEST GET https://mobilesdk-pa.googleapis.com/v1/projects/253789270228/clients/_:getWebAppConfig  
+ Tue Nov 28 2017 02:44:43 GMT-0600 (CST)
+[debug] [2017-11-28T08:44:44.124Z] <<< HTTP RESPONSE 200
+[info] i  hosting: Serving hosting files from: ./
+[info] ✔  hosting: Local server: http://localhost:5000
+
+[debug] [2017-11-28T08:47:25.707Z] ----------------------------------------------------------------------
+[debug] [2017-11-28T08:47:25.710Z] Command:       /usr/local/bin/node /usr/local/bin/firebase serve
+[debug] [2017-11-28T08:47:25.711Z] CLI Version:   3.15.3
+[debug] [2017-11-28T08:47:25.711Z] Platform:      darwin
+[debug] [2017-11-28T08:47:25.711Z] Node Version:  v6.10.1
+[debug] [2017-11-28T08:47:25.711Z] Time:          Tue Nov 28 2017 02:47:25 GMT-0600 (CST)
+[debug] [2017-11-28T08:47:25.712Z] ----------------------------------------------------------------------
+[debug] 
+[debug] [2017-11-28T08:47:25.724Z] > command requires scopes: ["email","openid","https://www.googleapis.com/auth/cloudplatformprojects.readonly","https://www.googleapis.com/auth/firebase","https://www.googleapis.com/auth/cloud-platform"]
+[debug] [2017-11-28T08:47:25.725Z] > authorizing via signed-in user
+[debug] [2017-11-28T08:47:25.727Z] >>> HTTP REQUEST GET https://admin.firebase.com/v1/projects/counter-e1df6  
+ Tue Nov 28 2017 02:47:25 GMT-0600 (CST)
+[debug] [2017-11-28T08:47:26.241Z] <<< HTTP RESPONSE 200
+[debug] [2017-11-28T08:47:26.243Z] >>> HTTP REQUEST GET https://admin.firebase.com/v1/database/counter-e1df6/tokens  
+ Tue Nov 28 2017 02:47:26 GMT-0600 (CST)
+[debug] [2017-11-28T08:47:26.544Z] <<< HTTP RESPONSE 200
+[info] 
+[info] === Serving from '/Users/youngeon/Downloads/338project'...
+[info] 
+[debug] [2017-11-28T08:47:26.547Z] >>> HTTP REQUEST GET https://cloudresourcemanager.googleapis.com/v1/projects/counter-e1df6  
+ Tue Nov 28 2017 02:47:26 GMT-0600 (CST)
+[debug] [2017-11-28T08:47:27.003Z] <<< HTTP RESPONSE 200
+[debug] [2017-11-28T08:47:27.004Z] >>> HTTP REQUEST GET https://mobilesdk-pa.googleapis.com/v1/projects/253789270228/clients/_:getWebAppConfig  
+ Tue Nov 28 2017 02:47:27 GMT-0600 (CST)
+[debug] [2017-11-28T08:47:27.177Z] <<< HTTP RESPONSE 200
+[warn] ⚠  hosting: Port 5000 is not available. Trying another port...
+[debug] [2017-11-28T08:47:27.193Z] >>> HTTP REQUEST GET https://cloudresourcemanager.googleapis.com/v1/projects/counter-e1df6  
+ Tue Nov 28 2017 02:47:27 GMT-0600 (CST)
+[debug] [2017-11-28T08:47:27.353Z] <<< HTTP RESPONSE 200
+[debug] [2017-11-28T08:47:27.353Z] >>> HTTP REQUEST GET https://mobilesdk-pa.googleapis.com/v1/projects/253789270228/clients/_:getWebAppConfig  
+ Tue Nov 28 2017 02:47:27 GMT-0600 (CST)
+[debug] [2017-11-28T08:47:27.707Z] <<< HTTP RESPONSE 200
+[info] i  hosting: Serving hosting files from: ./
+[info] ✔  hosting: Local server: http://localhost:5004
+
+[debug] [2017-11-28T09:00:23.328Z] ----------------------------------------------------------------------
+[debug] [2017-11-28T09:00:23.330Z] Command:       /usr/local/bin/node /usr/local/bin/firebase serve
+[debug] [2017-11-28T09:00:23.331Z] CLI Version:   3.15.3
+[debug] [2017-11-28T09:00:23.331Z] Platform:      darwin
+[debug] [2017-11-28T09:00:23.331Z] Node Version:  v6.10.1
+[debug] [2017-11-28T09:00:23.331Z] Time:          Tue Nov 28 2017 03:00:23 GMT-0600 (CST)
+[debug] [2017-11-28T09:00:23.332Z] ----------------------------------------------------------------------
+[debug] 
+[debug] [2017-11-28T09:00:23.346Z] > command requires scopes: ["email","openid","https://www.googleapis.com/auth/cloudplatformprojects.readonly","https://www.googleapis.com/auth/firebase","https://www.googleapis.com/auth/cloud-platform"]
+[debug] [2017-11-28T09:00:23.346Z] > authorizing via signed-in user
+[debug] [2017-11-28T09:00:23.348Z] > refreshing access token with scopes: ["email","https://www.googleapis.com/auth/cloud-platform","https://www.googleapis.com/auth/cloudplatformprojects.readonly","https://www.googleapis.com/auth/firebase","openid"]
+[debug] [2017-11-28T09:00:23.348Z] >>> HTTP REQUEST POST https://www.googleapis.com/oauth2/v3/token { refresh_token: '1/r6to0A7Fbm5At0H83ZCIExukj7m1nTuBv9Idm0naK5vIq_1FPERnG2U8w3cJSnxX',
+  client_id: '563584335869-fgrhgmd47bqnekij5i8b5pr03ho849e6.apps.googleusercontent.com',
+  client_secret: 'j9iVZfS8kkCEFUPaAeJV0sAi',
+  grant_type: 'refresh_token',
+  scope: 'email https://www.googleapis.com/auth/cloud-platform https://www.googleapis.com/auth/cloudplatformprojects.readonly https://www.googleapis.com/auth/firebase openid' } 
+ Tue Nov 28 2017 03:00:23 GMT-0600 (CST)
+[debug] [2017-11-28T09:00:23.545Z] <<< HTTP RESPONSE 200
+[debug] [2017-11-28T09:00:23.548Z] >>> HTTP REQUEST GET https://admin.firebase.com/v1/projects/counter-e1df6  
+ Tue Nov 28 2017 03:00:23 GMT-0600 (CST)
+[debug] [2017-11-28T09:00:23.918Z] <<< HTTP RESPONSE 200
+[debug] [2017-11-28T09:00:23.919Z] >>> HTTP REQUEST GET https://admin.firebase.com/v1/database/counter-e1df6/tokens  
+ Tue Nov 28 2017 03:00:23 GMT-0600 (CST)
+[debug] [2017-11-28T09:00:24.375Z] <<< HTTP RESPONSE 200
+[info] 
+[info] === Serving from '/Users/youngeon/Downloads/338project'...
+[info] 
+[debug] [2017-11-28T09:00:24.378Z] >>> HTTP REQUEST GET https://cloudresourcemanager.googleapis.com/v1/projects/counter-e1df6  
+ Tue Nov 28 2017 03:00:24 GMT-0600 (CST)
+[debug] [2017-11-28T09:00:24.794Z] <<< HTTP RESPONSE 200
+[debug] [2017-11-28T09:00:24.794Z] >>> HTTP REQUEST GET https://mobilesdk-pa.googleapis.com/v1/projects/253789270228/clients/_:getWebAppConfig  
+ Tue Nov 28 2017 03:00:24 GMT-0600 (CST)
+[debug] [2017-11-28T09:00:25.099Z] <<< HTTP RESPONSE 200
+[warn] ⚠  hosting: Port 5000 is not available. Trying another port...
+[debug] [2017-11-28T09:00:25.121Z] >>> HTTP REQUEST GET https://cloudresourcemanager.googleapis.com/v1/projects/counter-e1df6  
+ Tue Nov 28 2017 03:00:25 GMT-0600 (CST)
+[debug] [2017-11-28T09:00:25.276Z] <<< HTTP RESPONSE 200
+[debug] [2017-11-28T09:00:25.276Z] >>> HTTP REQUEST GET https://mobilesdk-pa.googleapis.com/v1/projects/253789270228/clients/_:getWebAppConfig  
+ Tue Nov 28 2017 03:00:25 GMT-0600 (CST)
+[debug] [2017-11-28T09:00:25.511Z] <<< HTTP RESPONSE 200
+[warn] ⚠  hosting: Port 5004 is not available. Trying another port...
+[debug] [2017-11-28T09:00:25.514Z] >>> HTTP REQUEST GET https://cloudresourcemanager.googleapis.com/v1/projects/counter-e1df6  
+ Tue Nov 28 2017 03:00:25 GMT-0600 (CST)
+[debug] [2017-11-28T09:00:25.773Z] <<< HTTP RESPONSE 200
+[debug] [2017-11-28T09:00:25.775Z] >>> HTTP REQUEST GET https://mobilesdk-pa.googleapis.com/v1/projects/253789270228/clients/_:getWebAppConfig  
+ Tue Nov 28 2017 03:00:25 GMT-0600 (CST)
+[debug] [2017-11-28T09:00:26.055Z] <<< HTTP RESPONSE 200
+[info] i  hosting: Serving hosting files from: ./
+[info] ✔  hosting: Local server: http://localhost:5008
+

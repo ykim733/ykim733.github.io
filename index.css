@@ -1,0 +1,25 @@
+html{
+  background-color: #e6e6e6;
+  font-family: 'Montserrat', sans-serif;
+}
+
+.student{
+  font-size: 50px;
+  text-decoration: none;
+  margin: 150px;
+  float: left;
+}
+
+.professor{
+font-size: 50px;
+text-decoration: none;
+margin: 150px;
+float: right;
+}
+
+.title{
+  margin: 0px;
+  text-align: center;
+  font-size: 60px;
+  padding-top: 30px;
+}

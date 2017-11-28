@@ -1,0 +1,39 @@
+html{
+  background-color: #e6e6e6;
+  font-family: 'Montserrat', sans-serif;
+}
+
+div{
+  margin: auto;
+}
+
+#number{
+  padding-top: 33%;
+  color: black;
+  font-size: 100px;
+}
+
+.out-circle{
+  width: 500px;
+  padding-top: 20px;
+  text-align:center;
+}
+
+h1{
+  font-size: 35px;
+  padding-top: 30px;
+  padding-left: 50px;
+  margin: auto;
+}
+#circle {
+  text-align: center;
+	width: 400px;
+	height: 400px;
+	-moz-border-radius: 50%;
+	-webkit-border-radius: 50%;
+	border-radius: 50%;
+}
+
+p {
+  font-size: 19px;
+}
